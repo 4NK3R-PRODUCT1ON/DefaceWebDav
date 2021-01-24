@@ -1,15 +1,23 @@
 # Deface website dengan mudah
 
--sh Tebas.sh
+# Install
+Follow The Steps Below!
 
--A
+```bash
+> apt install bash -y
+> apt install git -y
+> git clone https://github.com/4NK3R-PRODUCT1ON/DefaceWebDav
+> cd DefaceWebDav
+> sh Tebas.sh
 
--pilih website
+# A
 
--ubah script deface html kalian menjadi index.html
+# pilih website
 
--terus masuk ke termux lagi
+# ubah script deface html kalian menjadi index.html
 
--masukan script defce kalian index.html
+# terus masuk ke termux lagi
+
+# masukan script defce kalian index.html
 
 jadi deh
